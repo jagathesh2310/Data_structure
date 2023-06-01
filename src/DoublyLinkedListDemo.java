@@ -164,6 +164,7 @@ public class DoublyLinkedListDemo {
         list.display();
         list.displayReverse();
 
+
 //        list.updateAtPos(0,90);
 //        list.display();
 //        System.out.println(list.get(2));
@@ -172,6 +173,7 @@ public class DoublyLinkedListDemo {
 //        }
 //        list.reverseList();
 //        list.display();
+
 
     }
 }
