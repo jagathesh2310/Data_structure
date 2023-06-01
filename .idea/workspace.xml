@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="967998ec-4c80-465f-abd6-3b2f240f9232" name="Changes" comment="commiting try">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinerSearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueLinkedListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685640474390</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commiting try">
+      <created>1685647225991</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685647225991</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
